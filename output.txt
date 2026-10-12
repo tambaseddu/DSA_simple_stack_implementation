@@ -1,0 +1,33 @@
+13
+-----
+16
+-----
+-10
+-----
+4
+-----
+10
+-----
+15
+-----
+11.5
+-----
+3.5
+-----
+2.6667
+-----
+0.3
+-----
+42
+-----
+Error: Division by zero
+-----
+Error: Unmatched '('
+-----
+Error: Unmatched ')'
+-----
+Error: Missing operator between numbers
+-----
+Error: Expected a number or '('
+-----
+Error: Unsupported character: $
